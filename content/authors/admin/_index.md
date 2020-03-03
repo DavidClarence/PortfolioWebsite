@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Algebraic Geometry
 - Number Theory
-- Langlandz Program
+- Langlandz Project
 - Theoretical Physics
 - Arithmetic Geometry
 
@@ -43,28 +43,27 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/David1571331772
-- icon: facebook
-  icon_pack: fab
-  link: https://www.fackbook.com/David1579
+  link: https://twitter.com/GeorgeCushen
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/DavidClarence
+  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: files/cv.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "1700010601@pku.edu.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
----
+#user_groups:
+#- Researchers
+#- Visitors
+#---
 
-I'm an undergraduate majoring pure math in Peking Univesity, China.
-
+I'm an undergraduate majoring pure math in Peking University, China.
