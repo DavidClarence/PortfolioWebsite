@@ -1,6 +1,7 @@
 ---
 # Display name
-name: David Clarence  (彭淏)
+name: David Clarence
+  (彭淏)
 
 # Username (this should match the folder name)
 authors:
