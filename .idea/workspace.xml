@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c30b279-46cd-4944-900f-fdf3ca94d1f1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/languages.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/languages.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/admin/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/admin/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/home/slider.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/home/slider.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/menus.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/menus.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +37,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583132044976</updated>
-      <workItem from="1583132050454" duration="6300000" />
+      <workItem from="1583132050454" duration="6546000" />
     </task>
     <servers />
   </component>
