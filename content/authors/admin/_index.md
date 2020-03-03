@@ -66,4 +66,4 @@ email: "1700010601@pku.edu.cn"
 #- Visitors
 ---
 
-I am an undergraduate majoring pure math in Peking University, China.
+I am an undergraduate majoring pure math in Peking University, China. My interests are diverse, roughly one around Arithmetic Geometry/Number Theory, and another around Geometry and Theoretical Physics.
