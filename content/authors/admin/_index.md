@@ -46,15 +46,15 @@ social:
   link: https://twitter.com/David1571331772
 - icon: facebook
   icon_pack: fab
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.facebook.com/David1579
 - icon: github
   icon_pack: fab
   link: https://github.com/DavidClarence
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "1700010601@pku.edu.cn"
