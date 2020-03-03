@@ -43,13 +43,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
+  link: https://twitter.com/David1571331772
+- icon: facebook
+  icon_pack: fab
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/DavidClarence
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,4 +66,4 @@ email: "1700010601@pku.edu.cn"
 #- Visitors
 ---
 
-Nelson Bighetti 
+I am an undergraduate majoring pure math in Peking University, China.
