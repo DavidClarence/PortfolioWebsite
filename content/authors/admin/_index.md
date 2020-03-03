@@ -1,6 +1,6 @@
 ---
 # Display name
-name: David Clarence\\(彭淏)
+name: David Clarence(彭淏)
 
 # Username (this should match the folder name)
 authors:
@@ -40,7 +40,7 @@ education:
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/David1571331772
+  link: https://twitter.com/GeorgeCushen
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/David1579
@@ -62,5 +62,7 @@ email: "1700010601@pku.edu.cn"
 #- Researchers
 #- Visitors
 #---
-I'm an undergraduate student of pure math in Peking University, China. My interests are diverse, One around Algebraic Geometry/Number Theory and Another around Geometry and Theoretical Physics.
 
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
