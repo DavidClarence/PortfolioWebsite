@@ -15,7 +15,7 @@ role: Undergraduates majoring Pure Math
 # Organizations/Affiliations
 organizations:
 - name: Peking University
-  url: ""
+  url: "http://bicmr.pku.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
