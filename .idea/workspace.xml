@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c30b279-46cd-4944-900f-fdf3ca94d1f1" name="Default Changelist" comment="" />
+    <list default="true" id="5c30b279-46cd-4944-900f-fdf3ca94d1f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/static/files/elements-of-mathematics.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +41,7 @@
       <updated>1583132044976</updated>
       <workItem from="1583132050454" duration="7651000" />
       <workItem from="1583226821367" duration="6160000" />
+      <workItem from="1586791936721" duration="709000" />
     </task>
     <servers />
   </component>
